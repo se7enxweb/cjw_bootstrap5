@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>CJW Bootstrap 5</name>
+        <version>1.0.0</version>
+        <copyright>Copyright (C) CJW Network</copyright>
+        <license>MIT (bundled Bootstrap / Bootstrap Icons) + GNU General Public License v2.0 (extension glue code)</license>
+    </metadata>
+</software>
+

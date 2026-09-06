@@ -1,0 +1,14 @@
+// cjw_bootstrap5 SCSS entry point.
+//
+// Intentionally imports stock Bootstrap 5 with ZERO variable overrides —
+// this extension ships only Bootstrap's default color palette. If you want
+// a custom theme, copy this file, override Bootstrap's $variables (colors,
+// $theme-colors, fonts, ...) BEFORE the `@import "bootstrap/bootstrap"` line,
+// then compile with sass and drop the result into
+// design/standard/stylesheets/bootstrap.min.css.
+//
+// Compile (from extension/cjw_bootstrap5/):
+//   sass scss/theme.scss design/standard/stylesheets/bootstrap.min.css --style=compressed --no-source-map
+
+@import "bootstrap/bootstrap";
+@import "bootstrap-icons";
