@@ -10,7 +10,7 @@ class cjw_bootstrap5Info
     {
         return array(
             'Name' => "CJW Bootstrap 5",
-            'Version' => "1.0.0",
+            'Version' => "1.0.1",
             'Copyright' => "Copyright (C) CJW Network",
             'Contributor' => "CJW Network",
             'License' => "GNU General Public License v2.0 (glue code); bundled Bootstrap / Bootstrap Icons are MIT-licensed"
